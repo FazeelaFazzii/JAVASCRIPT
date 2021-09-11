@@ -1,0 +1,5 @@
+console.log('hi...itz my first js piece of code')
+console.log(27632633)
+console.log('fa',26326523,'strnh',({name :'alfred'}))
+console.log(true)
+console.log(false)
